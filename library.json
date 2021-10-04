@@ -1,0 +1,21 @@
+{
+  "name": "smartConfig",
+  "version": "1.1.0",
+  "description": "ESP32 SmartConfig library using ESP-IDF",
+  "keywords": "ESP32, ESP-IDF, SmartConfig, ESP-Touch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EddyBeaupre/esp32Libraries-smartConfig.git"
+  },
+  "authors": [
+    {
+      "name": "Eddy Beaupré",
+      "email": "eddy@beaupre.biz",
+      "url": "https://github.com/EddyBeaupre"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/EddyBeaupre/esp32Libraries-smartConfig.git",
+  "frameworks": "espidf",
+  "platforms": "espressif32"
+}
